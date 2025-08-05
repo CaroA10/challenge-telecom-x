@@ -36,7 +36,8 @@ Ejecutar el notebook directamente en la nube (sin instalar nada)
 
 •	Copia la URL del notebook:
 
-https://github.com/CaroA10/challenge-telecom-x/blob/27f0b008a7a757ef4c876e077b9cdc1ae8dc6ded/Challenge_TelecomX_LATAM.ipynb
+
+https://github.com/CaroA10/challenge-telecom-x/blob/4c8bc81932f5e0497916b23e2927699ce55e67bc/Challenge_TelecomX_LATAM.ipynb
 
 •	Ve a https://colab.research.google.com/
 
